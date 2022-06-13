@@ -755,7 +755,7 @@ h4 {
 }
 
 .black-background {
-  background-color: rgba(165, 147, 99, 0.7);
+  background-color: rgba(133, 118, 77, 0.8);
   padding: 40px 40px 40px 40px;
 }
 
@@ -777,7 +777,7 @@ h4 {
 }
 
 .tc-white {
-  color: #f38d5d !important;
+  color: #ef6b2e !important;
 }
 
 .btn-atomic-tangerine {
@@ -1041,4 +1041,9 @@ h4 {
   .bloc-mob-center-text {
     text-align: center;
   }
+}
+
+#showcase {
+  padding: 2rem;
+  background: rgba(0, 0, 0, 0.35);
 }
